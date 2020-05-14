@@ -19,35 +19,35 @@ The theorems of Euclidean geometry, like how to construct the midpoint of a line
 Consider the case of these three LEGOs: 
 
 <figure class="image">
-  <img src="_img/5_11_2020_2.jpeg" alt="Three-Lego System" border="2">
+  <img src="img/5_11_2020_2.jpeg" alt="Three-Lego System" border="2">
   <figcaption>Figure 1: The three-lego system. </figcaption>  
 </figure>
 
 These three legos can be considered the axioms, i.e., indivisible units, of an axiomatic system, which we may call the *three-lego system*. The logic of this system, i.e., the mechanics of using the three legos to construct composite structures, is represented physically by studs on the top side of the lego pieces and holes located on their bottoms. An example of a three-lego theorem is: 
 
 <figure class="image">
-  <img src="_img/5_11_2020_5.jpeg" alt="A Three-Lego Theorem" border="2">
+  <img src="img/5_11_2020_5.jpeg" alt="A Three-Lego Theorem" border="2">
   <figcaption>Figure 2: A three-lego theorem.</figcaption>  
 </figure>
 
 How do we know this is a three-lego theorem? We prove it: 
 
 <figure class="image">
-  <img src="_img/5_11_2020_6.png" alt="Three-Lego Theorem Proof" border="2">
+  <img src="img/5_11_2020_6.png" alt="Three-Lego Theorem Proof" border="2">
   <figcaption>Figure 3: Proof of the theorem in figure 2.</figcaption>  
 </figure>
 
 Of course, proof in this case is synonymous with construction: a three-lego theorem states that a particular three-lego object can be constructed and its proof is a demonstration of how it can be constructed. If we state that an object can be constructed, but provide no proof, it is merely a *conjecture*. Conjectures become theorems when they are proven. Consider this three-lego conjecture: 
 
 <figure class="image">
-  <img src="_img/5_11_2020_4.jpeg" alt="Three-Lego Conjecture" border="2">
+  <img src="img/5_11_2020_4.jpeg" alt="Three-Lego Conjecture" border="2">
   <figcaption>Figure 4: A three-lego conjecture.</figcaption>  
 </figure>
 
 Doesn't look quite right does it, but let's try to prove it:
 
 <figure class="image">
-  <img src="_img/5_11_2020_7.png" alt="Three-Lego Conjecture Proof Attempt" border="2">
+  <img src="img/5_11_2020_7.png" alt="Three-Lego Conjecture Proof Attempt" border="2">
   <figcaption>Figure 5: Attempting to prove the conjecture depicted in figure 4.<figcaption>  
 </figure>
 
