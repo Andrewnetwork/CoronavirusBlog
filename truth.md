@@ -48,7 +48,7 @@ Doesn't look quite right does it, but let's try to prove it:
 
 <figure class="image">
   <img src="img/5_11_2020_7.png" alt="Three-Lego Conjecture Proof Attempt" border="2">
-  <figcaption>Figure 5: Attempting to prove the conjecture depicted in figure 4.<figcaption>  
+  <figcaption>Figure 5: Attempting to prove the conjecture depicted in figure 4.</figcaption>  
 </figure>
 
 We can construct *part* of the proof, but we cannot affix the blue block to the yellow and red block in a way that constructs the conjecture stated above because it violates the logic of the three-lego system, i.e., no hub of the blue block is inserted into a hole of the red or yellow block. Thus, the three-lego conjecture stated above is not a theorem because it is illogical, i.e., it does not abide by the rules of LEGO construction. 
