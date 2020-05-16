@@ -4,7 +4,7 @@
 
 <center>
 <audio controls="controls">
-  <source type="audio/mp3" src="truth.mp3"></source>
+  <source type="audio/mp3" src="audio/truth.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 </center>

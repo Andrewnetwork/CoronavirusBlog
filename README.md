@@ -20,8 +20,8 @@
         </a>
     </div>
     <div style="display: inline-block;">
-        <a href="the_cycle_of_violence.html">
-            <img src="img/cycle_of_violence.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
+        <a href="magic.html">
+            <img src="img/magic_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
         </a>
     </div>
 <div>

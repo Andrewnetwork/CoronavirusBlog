@@ -4,17 +4,14 @@
 
 <center>
 <audio controls="controls">
-  <source type="audio/mp3" src="question_put.mp3"></source>
+  <source type="audio/mp3" src="audio/question_put.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 </center>
 
-
-
 > Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you. 
 > 
 >-Friedrich Nietzsche, "Beyond Good and Evil"
-
 
 Aristotle believed rationality separates man from beast. In all my observations of beasts, I have never witnessed a display of irrationality. On the contrary, beasts seem to embody the principle of rationality: they act on their basic needs and do no more than this. Can the same be said of man?
 
