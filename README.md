@@ -14,4 +14,9 @@
             <img src="img/exploitation_of_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
         </a>
     </div>
+    <div style="display: inline-block;">
+        <a href="the_gift_of_pain.html">
+            <img src="img/the_gift_of_pain.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
+        </a>
+    </div>
 <div>
