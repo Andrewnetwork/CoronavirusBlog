@@ -6,7 +6,7 @@ Your phone rings in the middle of the night. You are startled awake and pick up 
 
 <figure class="image">
   <img src="img/son_injured.png" alt="Three-Lego System" style="border: 2px black solid;">
-  <figcaption>Figure 1: The possible <i>shape</i>, i.e., <i>sense</i>, of the truth of proposition <b>A</b> discussed above. </figcaption>  
+  <figcaption>Figure 1: An incomplete <i>shape</i>, i.e., <i>sense</i>, of the truth of proposition <b>A</b> discussed above. </figcaption>  
 </figure>
 
 As seen above, the truth of a proposition alone does not necessarily imply a singular state of affairs. On the contrary, it delimits a *space of affairs*, i.e., the *sense* of the proposition. If the doctor in the phone call above continued to speak and told you that your son's finger was broken by him slamming the fridge door on it while retrieving items for a midnight snack, the *impression* that this *particular* injury would make on you is relative to all other objects contained in the sense of being notified that your son was injured in the middle of the night.
