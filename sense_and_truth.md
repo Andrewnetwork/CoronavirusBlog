@@ -6,9 +6,34 @@
 >
 >-Wittgenstein's Lectures on The Foundations of Mathematics (Cambridge 1939)
 
-In some sense of the word, we may say that *truth* is simply what is the case. To *know* what is the case, i.e., the state of the world, do we not also need to know *how* something is the case? For example, if I said to you "I am sick," you would need to know what sickness I have in order to understand the truth of my words, i.e., the state of affairs which make "I am sick" true. The set of circumstances which make a proposition true is the *sense* of a proposition. In the case of "I am sick," its sense is the set of all sicknesses. In this essay, I further examine the relation between truth and sense. 
+In some sense of the word, we may say that *truth* is simply what is the case. To *know* what is the case, i.e., the state of the world, do we not also need to know *how* something is the case? For example, if I said to you "I am sick," you would need to know what sickness I have in order to understand what my words *mean*, i.e., the state of affairs which make "I am sick" true. The set of circumstances which make a proposition true is the *sense* of a proposition. In the case of "I am sick," its sense is the set of all sicknesses. 
 
-## Sense and Object
+In this essay, I further examine the relation between sense and truth. 
+
+## Sense, Space, and Object
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. 
+>
+>-Immanuel Kant
+
+Our five basic senses are like sensors that allow us to detect objects in different spaces; for example, when we smell something, we detect a particular *scent object* in the space of scents. Scent objects do not exist in the same space as tactile objects, so it is strictly *nonsensical* to ask something like "How does the smell of chocolate compare with a gentle stroke across your cheek?", but it is perfectly sensible to ask something like "How does the smell of chocolate compare with the smell of vanilla?" When comparing objects within the same sensory space, i.e., sense, we must represent them as coordinates with respect to particular distinguishable axes in that space; for example, "sweet" is a word we use to describe certain types of scents, thus we may *embed* scent objects in a 1D space of sweet scents. 
+
+<figure class="image">
+  <img src="img/smell_space_2.png" alt="1D Sweet Scents Space" style="border: 2px black solid;">
+  <figcaption>Figure 1: An embedding of three scents objects in the 1D sweet scent space.</figcaption>  
+</figure>
+
+In *figure 1*, I have *embedded* three scent objects in the 1D sweet scents space, namely: celery, chocolate, and vanilla. I am unacquainted with the science of scent, so my embedding should not be considered rigorous or objective; what I provide here is purely for the sake of discussion. To my nose, celery does not smell sweet at all and vanilla smells sweeter than chocolate. We may now increase the dimensionality of the embedding space by adding another axis. We will choose the "nutty" smell for this purpose.  
+
+<figure class="image">
+  <img src="img/smell_space_1.png" alt="2D Sweet-Nutty Scent Space" style="border: 2px black solid;">
+  <figcaption>Figure 2: An embedding of three scent objects in the 2D sweet-nutty scent space.</figcaption>  
+</figure>
+
+When we embed objects in a space, we reason about where each object is placed with respect to the other objects in the embedding. To make the embedding depicted by *figure 2*, I started off by placing chocolate and vanilla where I thought they should be, then I began reasoning about where to place celery. I associate nutty with dark heavy smells like wood and chocolate, thus light floral smells would be the opposite of nutty. Therefore, celery should be closer to vanilla than chocolate on the nutty axis, but how much closer? Celery has a somewhat earthy smell, so it shouldn't be right next to vanilla, but perhaps somewhere between chocolate and vanilla. If we felt that celery had no relation to the nutty scent at all, we would have put celery in the center of the nutty axis, which represents no correlation with the nutty smell. Again, my embeddings are subjective and I am merely providing my reasoning to illustrate the associative reasoning one performs when embedding objects in a space. 
+
+The objects I have chosen above to represent scents are not *pure* in the sense that they are not disembodied scent objects: the vanilla ice cream, the celery sticks, and the chocolate ice cream can all be projected into other senses, i.e., we can touch, see, feel, smell, and hear these objects. The identity of these objects is how they stand in relation to each of our senses. If we lick the chocolate ice cream and find that it has the texture of a stone, we would feel deceived in the sense of texture; if we take a bite of the celery stick and find that it makes a soft wet sound, like biting into ice cream, we would feel deceived in the sense of hearing; if we lick the chocolate ice cream and it tastes like vanilla, we would be deceived in the sense of taste; and so on.
+
+How an object stands as represented by our senses is only the beginning of the life of an object in the mind. 
 
 ## The Midnight Call
 Your phone rings in the middle of the night. You are startled awake and pick up the phone. It's a doctor from your local hospital: **A**="Your son has been injured.", he says. You have no reason to believe the doctor is an impostor or lying and so your emotions begin to swirl as your mind fluctuates over various probability assignments to different types of circumstances which may make **A** true: did he drown, did he fall off his bike, was he attacked by someone, etc. 
