@@ -25,38 +25,48 @@ The theorems of Euclidean geometry, like how to construct the midpoint of a line
 
 Consider the case of these three LEGOs: 
 
+<center>
 <figure class="image">
   <img src="img/5_11_2020_2.jpeg" alt="Three-Lego System" style="border: 2px black solid;">
   <figcaption>Figure 1: The three-lego system. </figcaption>  
 </figure>
+</center>
 
 These three legos can be considered the axioms, i.e., indivisible units, of an axiomatic system that we may call the *three-lego system*. The logic of this system, i.e., the mechanics of using the three legos to construct composite structures, is represented physically by studs on the top of lego pieces and holes on their bottoms. An example of a three-lego theorem is: 
 
+<center>
 <figure class="image">
   <img src="img/5_11_2020_5.jpeg" alt="A Three-Lego Theorem" style="border: 2px black solid;">
   <figcaption>Figure 2: A three-lego theorem.</figcaption>  
 </figure>
+</center>
 
 How do we know this is a three-lego theorem? We prove it: 
 
+<center>
 <figure class="image">
   <img src="img/5_11_2020_6.png" alt="Three-Lego Theorem Proof" style="border: 2px black solid;">
   <figcaption>Figure 3: Proof of the theorem in figure 2.</figcaption>  
 </figure>
+</center>
 
 Of course, proof in this case is synonymous with construction: a three-lego theorem states that a particular three-lego object can be constructed and its proof is a demonstration of its construction. If we posit that an object can be constructed, but provide no proof, then we have asserted a *conjecture*. If we can prove a conjecture, then it is a theorem. Consider this three-lego conjecture: 
 
+<center>
 <figure class="image">
   <img src="img/5_11_2020_4.jpeg" alt="Three-Lego Conjecture" style="border: 2px black solid;">
   <figcaption>Figure 4: A three-lego conjecture.</figcaption>  
 </figure>
+</center>
 
 Doesn't look quite right does it, but let's try to prove it:
 
+<center>
 <figure class="image">
   <img src="img/5_11_2020_7.png" alt="Three-Lego Conjecture Proof Attempt" style="border: 2px black solid;">
   <figcaption>Figure 5: Attempting to prove the conjecture depicted in figure 4.</figcaption>  
 </figure>
+</center>
 
 We can construct *part* of the proof, but we cannot affix the blue block to the yellow and red block in a way that constructs the conjecture stated above because it violates the logic of the three-lego system, i.e., no hub of the blue block is inserted into a hole of the red or yellow block. Thus, the three-lego conjecture stated above is not a theorem because it is *illogical*, i.e., it does not abide by the rules of LEGO construction. 
 
