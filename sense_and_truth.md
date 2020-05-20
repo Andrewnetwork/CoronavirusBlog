@@ -126,7 +126,7 @@ We will also simplify *(2)* to *(2')*: $D ∨ E$. Where D = "Mike is excited for
 
 <center>
 <figure class="image">
-  <img src="img/truth_table_2.png" alt="Three-Lego System" style="border: 2px black solid;">
+  <img src="img/truth_table_2.PNG" alt="Three-Lego System" style="border: 2px black solid;">
   <figcaption>Figure x: Truth table of <i>(2')</i>.</figcaption>
 </figure>
 </center>
