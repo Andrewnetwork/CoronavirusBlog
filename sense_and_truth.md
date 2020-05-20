@@ -36,7 +36,22 @@ The objects I have chosen above to represent scents are not *pure* in the sense 
 How an object stands as represented by our senses is only the beginning of the life of an object in the mind. If we ate one hundred pounds of ice cream and felt as if we ate nothing, we would feel deceived in the *sense of reason*. Given that on average a pound of ice cream is one thousand calories, one hundred pounds of ice cream would be enough calories to sustain a man for forty days or so! Eating ice cream before dinner may also irritate our reason in a different way. Reason can be said to be a type of *super sense*. 
 With reason, we can create *senses*, i.e., spaces in which we can represent and reason about objects beyond what the basic senses offer us. 
 
-In the case of food, we can use our capacity for reason to construct the *caloric sense*.  
+In the case of food, we can use reason to construct the *caloric sense*. Just like we embedded objects above in the space of scent, we can do the same for calories. 
+
+<figure class="image">
+  <img src="img/calories.png" alt="1D 1 oz Calories Space" style="border: 2px black solid;">
+  <figcaption>Figure 3: Three objects embedded in the 1D 1 oz calories space.</figcaption>  
+</figure>
+
+We can also use reason to construct the *dinner food sense*.
+
+<figure class="image">
+  <img src="img/is_dinner_food.png" alt="1D 1 oz Calories Space" style="border: 2px black solid;">
+  <figcaption>Figure 4: Three objects embedded in dinner food sense.</figcaption>  
+</figure>
+
+
+
 
 ## The Midnight Call
 Your phone rings in the middle of the night. You are startled awake and pick up the phone. It's a doctor from your local hospital: **A**="Your son has been injured.", he says. You have no reason to believe the doctor is an impostor or lying and so your emotions begin to swirl as your mind fluctuates over various probability assignments to different types of circumstances which may make **A** true: did he drown, did he fall off his bike, was he attacked by someone, etc. 
