@@ -10,7 +10,7 @@ In some sense of the word, we may say that *truth* is simply what is the case. T
 
 In this essay, I further examine the relation between sense and truth. 
 
-## Sense, Space, and Object
+## Sense, Space, Object, and Reason
 > All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. 
 >
 >-Immanuel Kant
@@ -19,7 +19,7 @@ Our five basic senses are like sensors that allow us to detect objects in differ
 
 <figure class="image">
   <img src="img/smell_space_2.png" alt="1D Sweet Scents Space" style="border: 2px black solid;">
-  <figcaption>Figure 1: An embedding of three scents objects in the 1D sweet scent space.</figcaption>  
+  <figcaption>Figure 1: An embedding of three scent objects in the 1D sweet scents space.</figcaption>  
 </figure>
 
 In *figure 1*, I have *embedded* three scent objects in the 1D sweet scents space, namely: celery, chocolate, and vanilla. I am unacquainted with the science of scent, so my embedding should not be considered rigorous or objective; what I provide here is purely for the sake of discussion. To my nose, celery does not smell sweet at all and vanilla smells sweeter than chocolate. We may now increase the dimensionality of the embedding space by adding another axis. We will choose the "nutty" smell for this purpose.  
@@ -29,11 +29,11 @@ In *figure 1*, I have *embedded* three scent objects in the 1D sweet scents spac
   <figcaption>Figure 2: An embedding of three scent objects in the 2D sweet-nutty scent space.</figcaption>  
 </figure>
 
-When we embed objects in a space, we reason about where each object is placed with respect to the other objects in the embedding. To make the embedding depicted by *figure 2*, I started off by placing chocolate and vanilla where I thought they should be, then I began reasoning about where to place celery. I associate nutty with dark heavy smells like wood and chocolate, thus light floral smells would be the opposite of nutty. Therefore, celery should be closer to vanilla than chocolate on the nutty axis, but how much closer? Celery has a somewhat earthy smell, so it shouldn't be right next to vanilla, but perhaps somewhere between chocolate and vanilla. If we felt that celery had no relation to the nutty scent at all, we would have put celery in the center of the nutty axis, which represents no correlation with the nutty smell. Again, my embeddings are subjective and I am merely providing my reasoning to illustrate the associative reasoning one performs when embedding objects in a space. 
+When we embed objects in a space, we reason about where each object is placed with respect to the other objects in the embedding. To make the embedding depicted by *figure 2*, I started off by placing chocolate and vanilla where I thought they should be, then I began reasoning about where to place celery. I associate nutty with dark heavy smells like wood and chocolate, thus light floral smells would be the opposite of nutty. Therefore, celery should be closer to vanilla than chocolate on the nutty axis, but how much closer? Celery has a somewhat earthy smell, so it shouldn't be right next to vanilla, but perhaps somewhere between chocolate and vanilla. If we feel that celery has no relation to the nutty scent at all, we would put celery in the center of the nutty axis. Again, my embeddings are subjective and I am merely providing my reasoning to illustrate the *proximity reasoning* one performs when embedding objects in a space. 
 
-The objects I have chosen above to represent scents are not *pure* in the sense that they are not disembodied scent objects: the vanilla ice cream, the celery sticks, and the chocolate ice cream can all be projected into other senses, i.e., we can touch, see, feel, smell, and hear these objects. The identity of these objects is how they stand in relation to each of our senses. If we lick the chocolate ice cream and find that it has the texture of a stone, we would feel deceived in the sense of texture; if we take a bite of the celery stick and find that it makes a soft wet sound, like biting into ice cream, we would feel deceived in the sense of hearing; if we lick the chocolate ice cream and it tastes like vanilla, we would be deceived in the sense of taste; and so on.
+The objects I have chosen above to represent scents are not *pure* in the sense that they are not disembodied scent objects: the vanilla ice cream, the celery sticks, and the chocolate ice cream can all be projected into other senses, i.e., we can touch, see, feel, smell, and hear these objects. The basis of how we identity these objects is how they stand in relation to each of our senses. If we lick the chocolate ice cream and find that it has the texture of stone, we would feel deceived in the sense of texture; if we take a bite of the celery stick and find that it makes a soft wet sound, like biting into ice cream, yet feels stiff like it should, we would feel deceived in the sense of hearing; if we lick the chocolate ice cream and it tastes like vanilla, we would be deceived in the sense of taste; and so on.
 
-How an object stands as represented by our senses is only the beginning of the life of an object in the mind. 
+How an object stands as represented by our senses is only the beginning of the life of an object in the mind. If we ate one hundred pounds of ice cream and felt as if we ate nothing, we would feel deceived in the *sense of reason*. Given that on average a pound of ice cream is one thousand calories, one hundred pounds of ice cream would be enough calories to sustain a man for forty days or so! Eating ice cream before dinner may also irritate our reason in a different way. Reason is can be said to be a type of *super sense*. With reason, we can create *senses*, i.e., spaces by which we can represent and reason about objects beyond what the basic senses offer us. 
 
 ## The Midnight Call
 Your phone rings in the middle of the night. You are startled awake and pick up the phone. It's a doctor from your local hospital: **A**="Your son has been injured.", he says. You have no reason to believe the doctor is an impostor or lying and so your emotions begin to swirl as your mind fluctuates over various probability assignments to different types of circumstances which may make **A** true: did he drown, did he fall off his bike, was he attacked by someone, etc. 
