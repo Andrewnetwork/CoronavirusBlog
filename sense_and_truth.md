@@ -6,9 +6,15 @@
 >
 >-Wittgenstein's Lectures on The Foundations of Mathematics (Cambridge 1939)
 
-In some sense of the word, we may say that *truth* is simply what is the case. To *know* what is the case, i.e., the state of the world, do we not also need to know *how* something is the case? For example, if I said to you "I am sick," you would need to know what sickness I have in order to understand what my words *mean*, i.e., the state of affairs which make "I am sick" true, i.e., the sense of my sickness. The set of circumstances which make a proposition true is the *sense* of a proposition. In the case of "I am sick," its sense is the space of all sicknesses. 
+In some sense of the word, we may say that *truth* is simply what is the case. To *know* what is the case, i.e., the state of the world, we must also know *how* something is the case. For example, if I said to you "I am sick," you would need to know what sickness I have in order to understand what my words *mean*, i.e., the state of affairs which make "I am sick" true. The set of circumstances which make a proposition true is the *sense* of a proposition, and a particular circumstance is a *sense-object*. "I have the flu." is an example of a sense-object belonging to the sense of the "I am sick." proposition. 
 
-In this essay, I further examine the relation between sense and truth. 
+The *impression* of a sense-object, i.e., the phenomenological representation of a sense-object, is relative to all objects contained by the sense it belongs to. For example, "I have cancer." and "I have the flu." are both sense-objects belonging to the sense of the proposition "I am sick." Thus, the fact that we could have cancer dampens the impression of having the flu because cancer expands the scale of sickness and makes the flu appear to be a rather minor illness by comparison. 
+
+Of course, every proposition belongs to a context which *augments* its sense. If "I am sick." is said by a 90-year-old woman, then the "I have the flu." and "I have cancer." may have the same impression, i.e., the signification of imminent death. 
+
+I am of the opinion that *truth* has deleteriously overshadowed the significance of *sense* throughout much philosophical discourse. Many philosophers have waged countless battles over *the* truth, but in many cases, they were actually clashing over their *sense* of the truth. Can much of philosophy be reduced to an affirmation of the fact that the appearance of an object is a function of one's orientation to it? 
+
+In this essay, I will further examine the relation between sense and truth. 
 
 ## Sense, Space, Object, and Reason
 > All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. 
