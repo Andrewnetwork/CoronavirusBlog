@@ -105,3 +105,37 @@ Naturally, the context of a proposition augments its sense. Being notified of yo
 > A point in space is an argument place. 
 >
 >-Ludwig Wittgenstein, Proposition 2.0131 of "Tractatus Logicus Philosophicus"
+
+Suppose I said to you "Mike beat me in a game of chess.", do you know *what* I mean or do you know what I *could* mean? One can win a game of chess in many ways: saying that Mike beat me does not say *how* he beat me. If I continued and said "He was very excited about it." do you know what this means or what it could mean? What am I saying with such vague statements? 
+
+1. "Mike beat me in a game of chess."
+2. "He was very excited about it."
+
+The sense of proposition *(1)* does not share the same sense as proposition *(2)*. What makes Mike win the game of chess is not what makes him excited about it; although, his excitement may be a *function* of the state of affairs which make him win. For example, suppose Mike beat me in three moves. He may be excited because beating an opponent in such few moves is rare and impressive, but these qualities driving his excitement for winning are meta-game characteristics, i.e., the rules of chess say nothing about rarity or impressive games. We can also consider the case where Mike is excited to win because he rarely beats me. This sense-object of *(2)* is obviously not contained by the sense of *(1)* because Mike winning a game is *independent* of his frequency of winning against me. In simple terms: *(1)* and *(2)* are made true by different information. 
+
+To make this scenario accessible for analysis, we will reduce *(1)* to *(1')*: $(A ∨ B) ∧ ¬(A ∧ B)$. Where A = "Mike beat me in 3 moves." and B = "Mike beat me in 40 moves."  
+
+<center>
+<figure class="image">
+  <img src="img/truth_table_1.png" alt="Three-Lego System" style="border: 2px black solid;">
+  <figcaption>Figure x: Truth table of <i>(1')</i>.</figcaption>
+</figure>
+</center>
+
+We will also simplify *(2)* to *(2')*: $D ∨ E$. Where D = "Mike is excited for beating me in a spectacular way." and E = "Mike is excited because he rarely beats me."
+
+<center>
+<figure class="image">
+  <img src="img/truth_table_2.png" alt="Three-Lego System" style="border: 2px black solid;">
+  <figcaption>Figure x: Truth table of <i>(2')</i>.</figcaption>
+</figure>
+</center>
+
+When we say *(1)* and then *(2)*, we concatenate the sentences: "Mike beat me in a game of chess. He was very excited about it." Similarly, when we say *(1')* and then *(2')*, we use the *and* logical connective to join them: $((A ∨ B) ∧ ¬(A ∧ B)) ∧ (D ∨ E)$. In words this says: "Mike beat me in 3 moves or he beat me in 40 moves, but he did not beat me in both 40 moves and 3 moves, and he is exited for beating me in a spectacular way or he is excited because he rarely beats me." 
+
+<center>
+<figure class="image">
+  <img src="img/truth_table_3.png" alt="Three-Lego System" style="border: 2px black solid;">
+  <figcaption>Figure x: Truth table of <i>(1')</i> ∧ <i>(2')</i>.</figcaption>
+</figure>
+</center>
