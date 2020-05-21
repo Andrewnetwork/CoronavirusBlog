@@ -16,12 +16,14 @@ I am of the opinion that *truth* has deleteriously overshadowed the significance
 
 In this essay, I will further examine the relation between sense and truth. 
 
+*Before I go on, I should note that I am not attempting to rigorously prove anything in this essay; I am simply briskly examining some themes of sense and truth which stand out and seem interesting. Thus, one should not get too absorbed in the details I provide and pay more attention to the themes I am addressing.*
+
 ## Sense, Space, Object, and Reason
 > All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. 
 >
 >-Immanuel Kant
 
-Our five basic senses are like sensors which allow us to detect objects in different spaces; for example, when we smell something, we detect a particular *scent object* in the *space of scents*. Scent objects do not exist in the same space as *tactile objects*, so it is strictly nonsensical to ask something like "How does the smell of chocolate compare with a gentle stroke across your cheek?", but it is perfectly sensible to ask something like "How does the smell of chocolate compare with the smell of vanilla?" What distinguishes nonsensical statements from sensible statements? 
+Our five basic senses are like sensors which allow us to detect objects in different spaces; for example, when we smell something, we detect a particular *scent object* in the *space of scents*. Scent objects do not exist in the same space as *tactile objects*, so it is strictly nonsensical to ask something like "How does the smell of chocolate compare with a gentle stroke across your cheek?", but it is perfectly sensible to ask something like "How does the smell of chocolate compare with the smell of vanilla?" 
 
 When comparing objects within the same sensory space, i.e., sense, we must represent them as coordinates with respect to particular distinguishable axes in that space; for example, "sweet" is a word we use to describe certain types of scents, thus we may *embed* scent objects in a 1D space of sweet scents. 
 <center>
@@ -44,62 +46,64 @@ When we embed objects in a space, we reason about where each object is placed wi
 
 The objects I have chosen above to represent scents are not *pure* in the sense that they are not disembodied scent objects: the vanilla ice cream, the celery sticks, and the chocolate ice cream can all be projected into other senses, i.e., we can touch, see, feel, smell, and hear these objects. The basis of how we identity these objects is how they stand in relation to each of our senses. If we lick the chocolate ice cream and find that it has the texture of stone, we would feel deceived in the sense of texture; if we take a bite of the celery stick and find that it makes a soft wet sound, like biting into ice cream, yet feels stiff like it should, we would feel deceived in the sense of hearing; if we lick the chocolate ice cream and it tastes like vanilla, we would be deceived in the sense of taste; and so on.
 
-How an object stands as represented by our senses is only the beginning of the life of an object in the mind. If we ate one hundred pounds of ice cream and felt as if we ate nothing, we would feel deceived in the *sense of reason*. Given that on average a pound of ice cream is one thousand calories, one hundred pounds of ice cream would be enough calories to sustain a man for forty days or so! Eating ice cream before dinner may also irritate our reason in a different way. Reason can be said to be a type of *super sense*. 
-With reason, we can create *senses*, i.e., spaces in which we can represent and reason about objects beyond what the basic senses offer us. 
+How an object stands in relation to our senses is only the beginning of the life of an object in the mind. If we ate one hundred pounds of ice cream and felt as if we ate nothing, we would feel deceived in the *sense of reason*. Given that on average a pound of ice cream is one thousand calories, one hundred pounds of ice cream would be enough calories to sustain a man for forty days or so! Eating ice cream before dinner may also irritate our reason in a different way. Reason can be said to be a type of *super sense*. With reason, we can create *senses*, i.e., spaces in which we can represent and reason about objects beyond what the basic senses offer us. 
 
 In the case of food, we can use reason to construct the *caloric sense*. Just like we embedded objects above in the space of scent, we can do the same for calories. 
 
 <center>
 <figure class="image">
   <img src="img/calories.png" alt="1D 1 oz Calories Space" style="border: 2px black solid;">
-  <figcaption>Figure 3: Three objects embedded in the 1D 1 oz calories space.</figcaption>  
+  <figcaption>Figure 3: Three objects embedded in the 1D calories per 1 oz space.</figcaption>  
 </figure>
 </center>
 
-We can also use reason to construct the *dinner food sense*.
+Likewise, we can also use reason to construct the *dinner food sense*.
 
 <center>
 <figure class="image">
-  <img src="img/is_dinner_food.png" alt="1D 1 oz Calories Space" style="border: 2px black solid;">
-  <figcaption>Figure 4: Three objects embedded in dinner food sense.</figcaption>  
+  <img src="img/is_dinner_food.png" alt="Dinner Food Sense" style="border: 2px black solid;">
+  <figcaption>Figure 4: Three objects embedded in the dinner food sense.</figcaption>  
 </figure>
 </center>
 
-We use reason to construct senses, i.e., spaces, and objects, i.e., named regions of space. As an example, suppose we are given the following statements: 
-- **C**="I have consumed 2,500 calories today. I have therefore met the average daily caloric intake recommendation."
-- **D**="I have consumed 1,500 calories today. I have therefore not met the average daily caloric intake recommendation."
-- **B**="Eat a 150 calorie ice cream cone as a snack."  
+We use reason to construct senses, i.e., spaces, and objects, i.e., named regions of space. No object can be spoken of without speaking of the space that contains it. Attempting to extract objects from the spaces that contain them produces nonsense. As an example, suppose we are given the following statements: 
 
-**C** and **D** are spaces which can contain the object **B**. If **B** is contained by **C**, then it is an object of overindulgence in the *caloric sense*. On the other hand, if **B** is contained by **D**, then it is not an object of overindulgence in the *caloric sense*, but may be one in the *nutritional sense*.  **C** and **D** are *contextual senses*, meaning that they can contain objects like **B**, i.e., give sense to actions. **B** is not a sense: it cannot contain objects. 
+- $C = $ "I have consumed 2,500 calories today. I have therefore met the average daily caloric intake recommendation."
+- $D = $ "I have consumed 1,500 calories today. I have therefore not met the average daily caloric intake recommendation."
+- $B = $ "I eat a 150 calorie ice cream cone as a snack."  
 
-By itself, **B** is nonsense: what does **B** *mean* without a context that allows us to make sense of it? It may be tempting to say **B** makes perfect sense without a context, i.e., it is an object that can been understood 
+$C$ and $D$ are spaces that can contain the object $B$. If $B$ is contained by $C$, then it is an object of overindulgence in the *caloric sense*. On the other hand, if $B$ is contained by $D$, then it is not an object of overindulgence in the *caloric sense*, but may be one in the *nutritional sense*. The *algebra of containment* in the case of $D$ containing $B$, would produce language like: "On a day where I have consumed 1,500 calories, I eat a 150 calorie ice cream cone as a snack, which brings my total calories for the day to 1,650. I still have not met the average daily caloric intake recommendation." 
 
-These musings are somewhat superficial, 
+Given $B$ alone, how can we make sense of it, i.e., what does the action *mean* to us? Have we stolen the ice cream cone? Are we lost in the wilderness and it is the last of our food? Have we gorged on snacks all day? Are we under water? Our mind may protest: I don't need a context to understand $B$, I can understand what it means independent of any context! I guarantee any mind that raises such a point is *cheating*, i.e., it is subtly using a context from memory to make sense of $B$ by embedding it in a context.  
 
 ## The Midnight Call
-Your phone rings in the middle of the night. You are startled awake and pick up the phone. It's a doctor from your local hospital: **A**="Your son has been injured.", he says. You have no reason to believe the doctor is an impostor or lying and so your emotions begin to swirl as your mind fluctuates over various probability assignments to different types of circumstances which may make **A** true: did he drown, did he fall off his bike, was he attacked by someone, etc. 
+Your phone rings in the middle of the night. You are startled awake and pick up the phone. It's a doctor from your local hospital: $A =$ "Your son has been injured.", he says. You have no reason to believe the doctor is an impostor or lying and so your emotions begin to swirl as your mind fluctuates over various probability assignments to different circumstances which may make $A$ true: did he drown, did he fall off his bike, was he attacked by someone, etc. 
 
 <center>
 <figure class="image">
-  <img src="img/son_injured.png" alt="Three-Lego System" style="border: 2px black solid;">
-  <figcaption>Figure 1: An incomplete <i>shape</i>, i.e., <i>sense</i>, of proposition <b>A</b> discussed above. </figcaption>  
+  <img src="img/son_injured.png" alt="An incomplete shape of proposition A." style="border: 2px black solid;">
+  <figcaption>Figure 5: An incomplete <i>shape</i>, i.e., <i>sense</i>, of proposition <b>A</b> discussed above. </figcaption>  
 </figure>
 </center>
 
-As depicted in figure 1, the truth of a proposition alone does not necessarily imply a singular state of affairs. On the contrary, it delimits a *space of affairs*, which we may call the *sense* of a proposition. 
+As depicted in *figure 5*, the truth of a proposition does not imply a singular state of affairs. On the contrary, it delimits a *space of affairs*, which we may call the *sense* of a proposition. 
 
-If the doctor in the phone call above continued to speak and told you that your son's finger was broken by him slamming the fridge door on it while retrieving items for a midnight snack, the *impression* that this *particular* injury would make on you is relative to all other objects contained in the sense of being notified that your son was injured in the middle of the night. Namely, you would be relieved and would most likely find the situation comical because being notified of such an injury at midnight is somewhat absurd when contrasted with the other objects contained in the sense of being notified of an injury at midnight -- like having a heart attack.
+If the doctor continued to speak and told you that your son's finger was broken by him slamming the fridge door on it while retrieving items for a midnight snack, the *impression* that this *particular* injury would make on you is relative to all other objects contained in the sense of being notified that your son was injured in the middle of the night. Namely, you would be relieved and would most likely find the situation comical because being notified of such an injury at midnight is somewhat absurd when contrasted with the other objects contained in the sense of being notified of an injury at midnight -- like having a heart attack.
 
-Naturally, the context of a proposition augments its sense. Being notified of your son being injured in the middle of the night has a much *graver* sense than being notified in the middle of the day. Even though they have a similar *coverage* of objects they contain, i.e., the time of day does not *cause* certain types of injuries, the *probability* of each object making the proposition true is different; for example, it is more likely to be notified in the middle of the night that your son has suffered a heart attack or some domestic injury, as opposed to being notified that he was attacked while walking the streets, which is unusual behavior for most people. 
+Naturally, the context of a proposition augments its sense. Being notified of your son being injured in the middle of the night has a much *graver* sense than being notified in the middle of the day. Even though they have a similar *coverage* of objects they contain, i.e., the time of day does not *cause* certain types of injuries. The time of day augments the *probability* of each object making the proposition true; for example, it is more likely to be notified in the middle of the night that your son has suffered a heart attack or some domestic injury, as opposed to being notified that he was attacked while walking the streets, which is unusual behavior for most people. 
 
 <center>
 <figure class="image">
-  <img src="img/son_injured_sense.png" alt="Three-Lego System" style="border: 2px black solid;">
-  <figcaption>Figure 2: The sense and impressions of getting notified of your son's injury at midnight.</figcaption>
+  <img src="img/son_injured_sense.png" alt="Sense and Impression" style="border: 2px black solid;">
+  <figcaption>Figure 6: The sense and impressions of getting notified of your son's injury at midnight.</figcaption>
 </figure>
 </center>
 
-*Figure 2* is an incomplete picture of the sense and impressions of being notified at midnight that your son has been injured. Eight particular circumstances which make the proposition "Your son has been injured." true, which we may call *sense objects*, are taken to cover the *entire* sense of the proposition. This is obviously not a realistic rendering, but it is enough to provide a simple model for discussion. Each sense object is projected into two domains: the probability domain and the weight domain. Each domain can be considered to be a probability distribution, i.e., the real number assigned to all events in the domain sum to one. This is depicted by a fixed sized rectangle which is divided up between the probability, or weight, of each event. The weight of having a heart attack, drowning in a bathtub, falling off a cliff, etc., are all the same because they indicate the death of your son; however, their probabilities are different. Therefore, even though the weight of your son drowning or him having a heart attack may be the same, in the sense that they both signify his death, the *impression* they make on you within the context of being notified of him being injured at midnight is different because the probability of each sense object is vastly different. I should perhaps note that the particular weight and probabilities depicted in *figure 2* are obviously not fixed as I have portrayed them: each individual has their own probability map and weight map of sense objects contained by the sense of any given proposition which informs their impression of sense objects.   
+*Figure 6* is an incomplete picture of the sense and impressions of being notified at midnight that your son has been injured. For the sake of discussion, eight particular circumstances which make the proposition "Your son has been injured." true, which we call *sense-objects*, are taken to cover the *entire* sense of the proposition. Each sense-object is projected into two domains: the probability domain and the weight domain. Each domain can be considered to be a probability distribution, i.e., the real numbers assigned to all events in the domain sum to one. This is depicted by a fixed sized rectangle which is divided up between the probability, or weight, of each event. The weight of having a heart attack, drowning in a bathtub, falling off a cliff, etc., are all the same because they signify the death of your son; however, their probabilities are different. Therefore, even though the weight of your son drowning or him having a heart attack may be the same, in the sense that they both signify his death, the *impression* they make on you within the context of being notified of him being injured at midnight is different because the probability of each sense-object is vastly different. I should perhaps note that the particular weight and probabilities depicted in *figure 2* are obviously not fixed as I have portrayed them: each individual has their own probability map and weight map of sense objects contained by the sense of any given proposition which informs their impression of sense objects.   
+
+It is somewhat of a fools errand speak of *impressions* outside the life of individuals. What if your son had a life long water phobia, yet for some reason he decided one night to take a bath. In the investigation of his death, you find that he drowned after panicking and hitting his head. You may have many memories of your son shying away from water all throughout his life and such memories are included in the sense of his death. What I have described is an extraordinary sense-object, and the impression it leaves on us is dependent upon our imagination. We have to imagine the child clinging to his moms leg as he begs not to go in the swimming pool, the screaming and crying as we try to give him a bath, the strange adaptations he develop as he grows up like washing with a sponge on a stick, and then the final attempt to overcome his fear which ends in comedic tragedy. You have to *imagine a life* to be impressed by such a sense-object.   
+
+The role of literature is to explore sense and impression from *inside* the life of individuals. This is why we get so attached to characters in our precious novels: we genuinely feel as if we know them as a real person. That's the magic of the written word and fiction in particular: it has the power to open a window into ways of life, ways of thinking, etc. Literature may not be seen as a domain in which one *seeks the truth*, but it is certainly one in which truths are illuminated by the impressions developed and senses conveyed. 
 
 ## The Chess Game
 
@@ -149,4 +153,4 @@ This scenario is more complicated than others I may have instead chosen to illus
 
 The sense of a game is equal in magnitude to its complexity. When we talk about playing games in a sequence, where the previous game is used to inform the sense of the next game, the sense of the entire sequence becomes incredibly large and ultimately forces us to use abstract properties of the games, as mentioned above, to make sense of what is said. In the case of $(1)$ and $(2)$, Mike plays a game of chess and then plays the *excitement* game which is a function of the chess game. It may feel strange to frame *excitement* as a game, but there are events that build our excitement and depress our excitement. Many forms of entertainment play this game and we judge them according to how well they play it.    
 
-We are easily fooled into believing we understand what is being said. Very few people would bat an eye at the proposition "He beat me in a game of chess.", but the sense of this proposition contains at least $10^{120}$ sense-objects in the form of possible games of chess, not to mention all the human elements involved in playing chess! A world of sense greater than the number of atoms in the universe is represented by this single innocent proposition! We cannot possibly grasp what it means *in full*, but we can at least grasp it to some degree by mapping it to an abstract representation; which in this case is a *victory representation*. We know that someone gaining victory over another may lead to conflict, or that we owe praise to the victor, or that we have a better idea on who to bet on next time, etc. In most cases, we are just interested in *actionable abstractions* which allow us to understand how we should respond to events in our world, but sometimes we wish to *savor the sense* of events, i.e., to use their motions to stimulate our imagination and passion for understanding -- there's a world in every truth!   
+We are easily fooled into believing we understand what is being said. Very few people would bat an eye at the proposition "He beat me in a game of chess.", but the sense of this proposition contains at least $10^{120}$ sense-objects in the form of possible games of chess, not to mention all the human elements involved in playing chess! A world of sense greater than the number of atoms in the universe is represented by this single innocent proposition! We cannot possibly grasp what it means *in full*, but we can at least grasp it to some degree by mapping it to an abstract representation; which in this case is a *victory representation*. We know that someone gaining victory over another may lead to conflict, or that we owe praise to the victor, or that we have a better idea on who to bet on next time, etc. In most cases, we are just interested in *actionable abstractions* which allow us to understand how we should respond to events in our world, but sometimes we wish to *savor the sense* of events, i.e., to use their motions to stimulate our imagination and passion for understanding. There's a world in every truth!   
