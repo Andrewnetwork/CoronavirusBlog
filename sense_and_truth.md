@@ -118,8 +118,8 @@ To make this scenario accessible for analysis, we will reduce $(1)$ to $(1')$: $
 
 <center>
 <figure class="image">
-  <img src="img/truth_table_1.png" alt="Three-Lego System" style="border: 2px black solid;">
-  <figcaption>Figure x: Truth table of <i>(1')</i>.</figcaption>
+  <img src="img/truth_table_1.png" alt="(1') Truth Table" style="border: 2px black solid;">
+  <figcaption>Figure 7: Truth table of <i>(1')</i>.</figcaption>
 </figure>
 </center>
 
@@ -127,21 +127,21 @@ We will also reduce $(2)$ to $(2')$: $D ∨ E$. Where $D =$ "Mike is excited for
 
 <center>
 <figure class="image">
-  <img src="img/truth_table_2.PNG" alt="Three-Lego System" style="border: 2px black solid;">
-  <figcaption>Figure x: Truth table of <i>(2')</i>.</figcaption>
+  <img src="img/truth_table_2.PNG" alt="(2') Truth Table" style="border: 2px black solid;">
+  <figcaption>Figure 8: Truth table of <i>(2')</i>.</figcaption>
 </figure>
 </center>
 
 In English, when we say $(1)$ and $(2)$ as a joint statement, we simply concatenate the sentences: "Mike beat me in a game of chess. He was very excited about it." Similarly, in Boolean logic, when we assert $(1')$ and $(2')$, we use the $∧$ symbol, pronounced "and," which one of the *logical connectives* used to join Boolean expressions: $(1') ∧ (2') = ((A ∨ B) ∧ ¬(A ∧ B)) ∧ (D ∨ E)$. In words this says: "Mike beat me in 3 moves or he beat me in 40 moves, but he did not beat me in both 40 moves and 3 moves, and he is exited for beating me in a spectacular way or he is excited because he rarely beats me." We now construct a truth table as we did above:  
 
 <center>
-<img src="img/truth_table_3.png" alt="Three-Lego System" style="border: 2px black solid;">
+<img src="img/truth_table_3.png" alt="(1') ∧ (2') Truth Table" style="border: 2px black solid;">
 <div>
-Figure x: Truth table of <i>(1')</i> ∧ <i>(2')</i>.
+Figure 9: Truth table of <i>(1')</i> ∧ <i>(2')</i>.
 </div>
 </center>
 
-As seen in *figure x*, there are *sixteen* possible combinations of the four boolean variables $ABDE$, but only six combinations are sense-objects of $(1') ∧ (2')$, i.e., combinations of $ABDE$ which make $(1') ∧ (2')$ true.  For example, $ABDE=TTFF$ is nonsense because it says that Mike beat me in 3 moves and he beat me in 40 moves -- a logical impossibility. In the case of $ABDE=FTFF$, it is not nonsense, but Mike isn't excited to beat me, so it is not a state of affairs which makes $(1') ∧ (2')$ true, i.e., it is not a sense-object of $(1') ∧ (2')$. On the other hand, $ABDE=TFFT$ is a sense-object of $(1') ∧ (2')$ and it's description, as depicted in *figure x*, is: "Mike is excited because he beat me and rarely does."
+As seen in *figure 9*, there are *sixteen* possible combinations of the four boolean variables $ABDE$, but only six combinations are sense-objects of $(1') ∧ (2')$, i.e., combinations of $ABDE$ which make $(1') ∧ (2')$ true.  For example, $ABDE=TTFF$ is nonsense because it says that Mike beat me in 3 moves and he beat me in 40 moves -- a logical impossibility. In the case of $ABDE=FTFF$, it is not nonsense, but Mike isn't excited to beat me, so it is not a state of affairs which makes $(1') ∧ (2')$ true, i.e., it is not a sense-object of $(1') ∧ (2')$. On the other hand, $ABDE=TFFT$ is a sense-object of $(1') ∧ (2')$ and it's description, as depicted in *figure 9*, is: "Mike is excited because he beat me and rarely does."
 
 I have chosen propositions $D$ and $E$ in order to illustrate a significant aspect of how the sense of $(1')$ and $(2')$ are *combined* in order to construct a *joint sense*. When $D$ is true, i.e., Mike is excited for beating me in a spectacular way, the excitement Mike experiences is a *function* of the way in which he won; however, when $D$ is false, i.e., Mike is only excited because he beat me and rarely does, then the excitement Mike experiences has nothing to do with *how* he beat me. Therefore, $D$ acts as a sort of *sense gate*, i.e., if it is true, it passes the sense of $(1')$, i.e., how Mike won, forward in order to be reflected in the sense of $(2')$, i.e., how Mike is excited. The impression of $ABDE=TFFT$ and $ABDE=FTFT$ are the same because in both cases Mike is simply excited because he won, i.e., his excitement is not a function of wether or not he won in 3 moves or 40 moves. 
 
