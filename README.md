@@ -19,4 +19,9 @@
             <img src="img/sense_truth_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
         </a>
     </div>
+    <div style="display: inline-block;">
+        <a href="domesticated_thinking.html">
+            <img src="img/domesticated_thinking_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
+        </a>
+    </div>
 <div>
