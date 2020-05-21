@@ -102,18 +102,15 @@ Naturally, the context of a proposition augments its sense. Being notified of yo
 *Figure 2* is an incomplete picture of the sense and impressions of being notified at midnight that your son has been injured. Eight particular circumstances which make the proposition "Your son has been injured." true, which we may call *sense objects*, are taken to cover the *entire* sense of the proposition. This is obviously not a realistic rendering, but it is enough to provide a simple model for discussion. Each sense object is projected into two domains: the probability domain and the weight domain. Each domain can be considered to be a probability distribution, i.e., the real number assigned to all events in the domain sum to one. This is depicted by a fixed sized rectangle which is divided up between the probability, or weight, of each event. The weight of having a heart attack, drowning in a bathtub, falling off a cliff, etc., are all the same because they indicate the death of your son; however, their probabilities are different. Therefore, even though the weight of your son drowning or him having a heart attack may be the same, in the sense that they both signify his death, the *impression* they make on you within the context of being notified of him being injured at midnight is different because the probability of each sense object is vastly different. I should perhaps note that the particular weight and probabilities depicted in *figure 2* are obviously not fixed as I have portrayed them: each individual has their own probability map and weight map of sense objects contained by the sense of any given proposition which informs their impression of sense objects.   
 
 ## The Chess Game
-<center>
-<img src="img/chess_pic.jpg" alt="Three-Lego System" style="border: 2px black solid;">
-</center>
 
 Suppose I said to you "Mike beat me in a game of chess.", do you know *what* I mean or do you know what I *could* mean? One can win a game of chess in many ways: saying that Mike beat me does not say *how* he beat me. If I continued and said "He was very excited about it.", do you know what this means or what it could mean? Each statement is ambiguous and both of them said together *multiplies* the ambiguity of each statement to form the ambiguity of the joint statement.  
 
 1. "Mike beat me in a game of chess."
 2. "He was very excited about it."
 
-The sense of proposition *(1)* does not share the same sense as proposition *(2)*. What makes Mike win the game of chess is not what makes him excited about it; although, his excitement may be a *function* of the state of affairs which make him win. For example, suppose Mike beat me in three moves. He may be excited because beating an opponent in such few moves is rare and impressive, but these qualities driving his excitement for winning are meta-game characteristics, i.e., the rules of chess say nothing about rarity or impressive games. We can also consider the case where Mike is excited to win because he rarely beats me. This sense-object of *(2)* is obviously not contained by the sense of *(1)* because Mike winning a game is *independent* of his frequency of winning against me. In simple terms: *(1)* and *(2)* are made true by different information. 
+The sense of proposition $(1)$ does not share the same sense as proposition $(2)$. What makes Mike win the game of chess is not what makes him excited about it; although, his excitement may be a *function* of the state of affairs which make him win. For example, suppose Mike beat me in three moves. He may be excited because beating an opponent in such few moves is rare and impressive, but these qualities driving his excitement for winning are meta-game characteristics, i.e., the rules of chess are what pertain to Mike winning and they say nothing about rarity or impressive games. We can also consider a sense-object of $(2)$ like " Mike is excited to win because he rarely beats me." This sense-object is obviously not contained by the sense of $(1)$ because Mike winning a game is *independent* of his frequency of winning against me. In simple terms: $(1)$ and $(2)$ are made true by *different information*. 
 
-To make this scenario accessible for analysis, we will reduce *(1)* to *(1')*: $(A ∨ B) ∧ ¬(A ∧ B)$. Where A = "Mike beat me in 3 moves." and B = "Mike beat me in 40 moves."  
+To make this scenario accessible for analysis, we will reduce $(1)$ to $(1')$: $(A ∨ B) ∧ ¬(A ∧ B)$. Where $A =$ "Mike beat me in 3 moves." and $B =$ "Mike beat me in 40 moves." $(1')$ is a *Boolean expression* constructed with the operators of [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra). Instead of explaining what the symbols mean, here's what it says in English, it says: Mike beat me in 3 moves *or* he beat me in 40 moves, but he did *not* beat me in 40 moves *and* 3 moves. I call this a *reduction* because the sense of $(1)$ is far larger than the sense of $(1')$, which has only two *explicitly* stated sense-objects, i.e., $A$ and $B$. We may now construct a *truth table* which enumerates all possible truth-value assignments to $A$ and $B$ and the resulting truth-value of $(1')$:
 
 <center>
 <figure class="image">
@@ -122,7 +119,7 @@ To make this scenario accessible for analysis, we will reduce *(1)* to *(1')*: $
 </figure>
 </center>
 
-We will also simplify *(2)* to *(2')*: $D ∨ E$. Where D = "Mike is excited for beating me in a spectacular way." and E = "Mike is excited because he rarely beats me."
+We will also reduce $(2)$ to $(2')$: $D ∨ E$. Where $D =$ "Mike is excited for beating me in a spectacular way." and $E =$ "Mike is excited because he rarely beats me." In English, $(2')$ says: Mike is excited for beating me in a spectacular way or he is excited because he rarely beats me. As above, we may construct a truth table: 
 
 <center>
 <figure class="image">
@@ -131,7 +128,7 @@ We will also simplify *(2)* to *(2')*: $D ∨ E$. Where D = "Mike is excited for
 </figure>
 </center>
 
-When we say *(1)* and then *(2)*, we concatenate the sentences: "Mike beat me in a game of chess. He was very excited about it." Similarly, when we say *(1')* and then *(2')*, we use the *and* logical connective to join them: $((A ∨ B) ∧ ¬(A ∧ B)) ∧ (D ∨ E)$. In words this says: "Mike beat me in 3 moves or he beat me in 40 moves, but he did not beat me in both 40 moves and 3 moves, and he is exited for beating me in a spectacular way or he is excited because he rarely beats me." 
+In English, when we say $(1)$ and $(2)$ as a joint statement, we simply concatenate the sentences: "Mike beat me in a game of chess. He was very excited about it." Similarly, in Boolean logic, when we assert $(1')$ and $(2')$, we use the $∧$, pronounced "and," logical connective to join them: $(1') ∧ (2') = ((A ∨ B) ∧ ¬(A ∧ B)) ∧ (D ∨ E)$. In words this says: "Mike beat me in 3 moves or he beat me in 40 moves, but he did not beat me in both 40 moves and 3 moves, and he is exited for beating me in a spectacular way or he is excited because he rarely beats me." We now construct a truth table as we did above:  
 
 <center>
 <img src="img/truth_table_3.png" alt="Three-Lego System" style="border: 2px black solid;">
@@ -139,7 +136,6 @@ When we say *(1)* and then *(2)*, we concatenate the sentences: "Mike beat me in
 Figure x: Truth table of <i>(1')</i> ∧ <i>(2')</i>.</
 </div>
 </center>
-<br />
 
-As seen in *figure x*, there are *sixteen* possible combinations of the four boolean variables $ABDE$. Only six out of these sixteen possible combinations are sense-objects of *(1')* ∧ *(2')*, i.e., combinations of $ABDE$ which make *(1')* ∧ *(2')* true.  For example, $ABDE=TTFF$ is nonsense because it says that Mike beat me in 3 moves and he beat me in 40 moves -- a logical impossibility. In the case of $ABDE=FTFF$, it is not nonsense, but Mike isn't excited to beat me, so it is not a state of affairs which makes both *(1')* and *(2')* true, i.e., it is not a sense-object of *(1')* and *(2')*. On the other hand, $ABDE=TFFT$ is a sense-object of *(1')* ∧ *(2')* and it's description is listed in *figure x*.
+As seen in *figure x*, there are *sixteen* possible combinations of the four boolean variables $ABDE$, but only six out of these sixteen possible combinations are sense-objects of $(1') ∧ (2')$, i.e., combinations of $ABDE$ which make $(1') ∧ (2')$ true.  For example, $ABDE=TTFF$ is nonsense because it says that Mike beat me in 3 moves and he beat me in 40 moves -- a logical impossibility. In the case of $ABDE=FTFF$, it is not nonsense, but Mike isn't excited to beat me, so it is not a state of affairs which makes both *(1')* and *(2')* true, i.e., it is not a sense-object of *(1')* and *(2')*. On the other hand, $ABDE=TFFT$ is a sense-object of *(1')* ∧ *(2')* and it's description is listed in *figure x*.
 
