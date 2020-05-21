@@ -10,7 +10,7 @@ In some sense of the word, we may say that *truth* is simply what is the case. T
 
 The *impression* of a sense-object, i.e., the phenomenological representation of a sense-object, is relative to all objects contained by the sense it belongs to. For example, "I have cancer." and "I have the flu." are both sense-objects belonging to the sense of the proposition "I am sick." Thus, the fact that we could have cancer dampens the impression of having the flu because cancer expands the scale of sickness and makes the flu appear to be a rather minor illness by comparison. 
 
-Of course, every proposition belongs to a context which *augments* its sense. If "I am sick." is said by a 90-year-old woman, then the "I have the flu." and "I have cancer." may have the same impression, i.e., the signification of imminent death. 
+Of course, every proposition belongs to a context which *augments* its sense. If "I am sick." is said by a 90-year-old woman, then "I have the flu." and "I have cancer." may have the same impression, i.e., the signification of imminent death. 
 
 I am of the opinion that *truth* has deleteriously overshadowed the significance of *sense* throughout much philosophical discourse. Many philosophers have waged countless battles over *the* truth, but in many cases, they were actually clashing over their *sense* of the truth. Can much of philosophy be reduced to an affirmation of the fact that the appearance of an object is a function of one's orientation to it? 
 
@@ -102,11 +102,11 @@ Naturally, the context of a proposition augments its sense. Being notified of yo
 *Figure 2* is an incomplete picture of the sense and impressions of being notified at midnight that your son has been injured. Eight particular circumstances which make the proposition "Your son has been injured." true, which we may call *sense objects*, are taken to cover the *entire* sense of the proposition. This is obviously not a realistic rendering, but it is enough to provide a simple model for discussion. Each sense object is projected into two domains: the probability domain and the weight domain. Each domain can be considered to be a probability distribution, i.e., the real number assigned to all events in the domain sum to one. This is depicted by a fixed sized rectangle which is divided up between the probability, or weight, of each event. The weight of having a heart attack, drowning in a bathtub, falling off a cliff, etc., are all the same because they indicate the death of your son; however, their probabilities are different. Therefore, even though the weight of your son drowning or him having a heart attack may be the same, in the sense that they both signify his death, the *impression* they make on you within the context of being notified of him being injured at midnight is different because the probability of each sense object is vastly different. I should perhaps note that the particular weight and probabilities depicted in *figure 2* are obviously not fixed as I have portrayed them: each individual has their own probability map and weight map of sense objects contained by the sense of any given proposition which informs their impression of sense objects.   
 
 ## The Chess Game
-> A point in space is an argument place. 
->
->-Ludwig Wittgenstein, Proposition 2.0131 of "Tractatus Logicus Philosophicus"
+<center>
+<img src="img/chess_pic.jpg" alt="Three-Lego System" style="border: 2px black solid;">
+</center>
 
-Suppose I said to you "Mike beat me in a game of chess.", do you know *what* I mean or do you know what I *could* mean? One can win a game of chess in many ways: saying that Mike beat me does not say *how* he beat me. If I continued and said "He was very excited about it." do you know what this means or what it could mean? What am I saying with such vague statements? 
+Suppose I said to you "Mike beat me in a game of chess.", do you know *what* I mean or do you know what I *could* mean? One can win a game of chess in many ways: saying that Mike beat me does not say *how* he beat me. If I continued and said "He was very excited about it.", do you know what this means or what it could mean? Each statement is ambiguous and both of them said together *multiplies* the ambiguity of each statement to form the ambiguity of the joint statement.  
 
 1. "Mike beat me in a game of chess."
 2. "He was very excited about it."
@@ -134,8 +134,12 @@ We will also simplify *(2)* to *(2')*: $D ∨ E$. Where D = "Mike is excited for
 When we say *(1)* and then *(2)*, we concatenate the sentences: "Mike beat me in a game of chess. He was very excited about it." Similarly, when we say *(1')* and then *(2')*, we use the *and* logical connective to join them: $((A ∨ B) ∧ ¬(A ∧ B)) ∧ (D ∨ E)$. In words this says: "Mike beat me in 3 moves or he beat me in 40 moves, but he did not beat me in both 40 moves and 3 moves, and he is exited for beating me in a spectacular way or he is excited because he rarely beats me." 
 
 <center>
-<figure class="image">
-  <img src="img/truth_table_3.png" alt="Three-Lego System" style="border: 2px black solid;">
-  <figcaption>Figure x: Truth table of <i>(1')</i> ∧ <i>(2')</i>.</figcaption>
-</figure>
+<img src="img/truth_table_3.png" alt="Three-Lego System" style="border: 2px black solid;">
+<div>
+Figure x: Truth table of <i>(1')</i> ∧ <i>(2')</i>.</
+</div>
 </center>
+<br />
+
+As seen in *figure x*, there are *sixteen* possible combinations of the four boolean variables $ABDE$. Only six out of these sixteen possible combinations are sense-objects of *(1')* ∧ *(2')*, i.e., combinations of $ABDE$ which make *(1')* ∧ *(2')* true.  For example, $ABDE=TTFF$ is nonsense because it says that Mike beat me in 3 moves and he beat me in 40 moves -- a logical impossibility. In the case of $ABDE=FTFF$, it is not nonsense, but Mike isn't excited to beat me, so it is not a state of affairs which makes both *(1')* and *(2')* true, i.e., it is not a sense-object of *(1')* and *(2')*. On the other hand, $ABDE=TFFT$ is a sense-object of *(1')* ∧ *(2')* and it's description is listed in *figure x*.
+
