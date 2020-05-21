@@ -133,7 +133,7 @@ In English, when we say $(1)$ and $(2)$ as a joint statement, we simply concaten
 <center>
 <img src="img/truth_table_3.png" alt="Three-Lego System" style="border: 2px black solid;">
 <div>
-Figure x: Truth table of <i>(1')</i> ∧ <i>(2')</i>.</
+Figure x: Truth table of <i>(1')</i> ∧ <i>(2')</i>.
 </div>
 </center>
 
