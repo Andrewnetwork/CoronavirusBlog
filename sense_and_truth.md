@@ -29,7 +29,7 @@ When comparing objects within the same sensory space, i.e., sense, we must repre
 
 <center>
 <figure class="image">
-  <img src="img/police_siren_sim.png" alt="Similarity to Police Siren" style="border: 2px black solid;">
+  <img src="img/police_siren_sim.PNG" alt="Similarity to Police Siren" style="border: 2px black solid;">
   <figcaption>Figure 1: Three sound objects on an axis in the space of sound.</figcaption>  
 </figure>
 </center>
