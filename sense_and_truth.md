@@ -2,7 +2,7 @@
 #### Andrew Ribeiro 
 #### May 2020
 
-> Suppose Professor Hardy came to me and said, "Wittgenstein, I've made a great discovery. I've found that..." I would say, "I am not a mathematician, and therefore I won't be surprised at what you say. For **I cannot know what you mean until I know how you've found it.**" We have no right to be surprised at what he tells us. For although he speaks English, yet the meaning of what he says depends upon what he says depends upon the calculations he has made. 
+> Suppose Professor Hardy came to me and said, "Wittgenstein, I've made a great discovery. I've found that..." I would say, "I am not a mathematician, and therefore I won't be surprised at what you say. For **I cannot know what you mean until I know how you've found it.**" We have no right to be surprised at what he tells us. For although he speaks English, yet the meaning of what he says depends upon the calculations he has made. 
 >
 >-Wittgenstein's Lectures on The Foundations of Mathematics (Cambridge 1939)
 
