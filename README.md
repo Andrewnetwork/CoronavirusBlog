@@ -20,8 +20,8 @@
         </a>
     </div>
     <div class="front_tile">
-        <a href="domesticated_thinking.html">
-            <img src="img/domesticated_thinking_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
+        <a href="the_pursuit_or_principles.html">
+            <img src="img/the_pursuit_or_principles_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
         </a>
     </div>
 <div>
