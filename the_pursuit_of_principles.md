@@ -1,4 +1,4 @@
-# The Pursuit of Principles
+# The Pursuit of Principles - WORK IN PROGRESS
 #### Andrew Ribeiro 
 #### May 2020
 
@@ -8,5 +8,6 @@
 
 If we equate philosophy with "the pursuit of truth," then it follows that the method by which we pursue truth should be the primary object of our studies. If our task is to circumnavigate the globe, setting off on foot wouldn't be a sufficient course of action because we'd never complete our task with such meager means of transport; it is necessary to first study the ways in which man may traverse the earth and thereby develop a method which allows us to complete our journey. The same reasoning can be applied to the pursuit of truth: we are in dire need of methods which assist our minds in traversing the space of truth.
 
-For much of history, man has been lead astray from the pursuit of truth by various kinds of *mysticism*. All mysticism can be characterized by a lack of *demonstrations*. An example of a mystical proposition would be: "Putting salt around the windows and doors of your house keeps bad spirits out." The *truth* of such mystical propositions are said to be derived from higher planes of knowledge, or entities which gift such knowledge, and therefore only intersect this world through the conduit of chosen individuals; hence, we cannot possibly prove mystical propositions by worldly demonstrations because they do not of this world... or so the reasoning goes.
+For much of history, man has been lead astray from the pursuit of truth by various kinds of *mysticism*. All mysticism can be characterized by a lack of *demonstrations*. An example of a *mystical proposition* would be: "Putting salt around the windows and doors of your house keeps bad spirits out." The *truth* of such mystical propositions are said to be derived from higher planes of knowledge, or entities which gift such knowledge, and therefore only intersect this world through conduits of chosen individuals; hence, we cannot possibly prove mystical propositions by worldly demonstrations because they are not of this world... or so the reasoning goes.
 
+Without a mechanism of ensuring that man was in fact traversing the realm of truth, it was easy for man to lose himself in fantastical mythos. 
