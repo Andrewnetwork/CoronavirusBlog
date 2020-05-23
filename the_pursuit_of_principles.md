@@ -26,7 +26,7 @@ Suppose a ball is on the edge of a table. I could describe two states of the bal
 
 <center>
 <figure class="image">
-  <img src="img/ball_table_1.PNG" alt="A ball on a ledge." style="border: 2px black solid;">
+  <img src="img/ball_table_1.png" alt="A ball on a ledge." style="border: 2px black solid;">
   <figcaption>Figure 1: A ball on the table and a ball on the floor.</figcaption>  
 </figure>
 </center>
