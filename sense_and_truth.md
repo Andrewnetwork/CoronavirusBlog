@@ -1,4 +1,4 @@
-# Sense and Truth - WORK IN PROGRESS 
+# Sense and Truth
 #### Andrew Ribeiro 
 #### May 2020
 
