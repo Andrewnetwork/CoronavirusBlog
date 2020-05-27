@@ -19,19 +19,4 @@
             <img src="img/sense_truth_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
         </a>
     </div>
-    <div class="front_tile">
-        <a href="the_pursuit_of_principles.html">
-            <img src="img/the_pursuit_or_principles_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
-        </a>
-    </div>
-    <div class="front_tile">
-        <a href="the_voice_of_nature.html">
-            <img src="img/voice_of_nature_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
-        </a>
-    </div>
-    <div class="front_tile">
-        <a href="the_strangeness_of_existence.html">
-            <img src="img/the_strangeness_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
-        </a>
-    </div>
 <div>
