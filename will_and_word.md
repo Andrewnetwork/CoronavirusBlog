@@ -17,3 +17,30 @@ Who hadst deserved more than a prison.
 >
 >-Shakespeare, Act 1 Scene 2 of "The Tempest"
 
+What would man be without language? What would language be without words? What would words be without will? What would will be without being? What would being be without world? What would world be without God? 
+
+Are we not confounded by the multitude of our being? In the domain of music, we reduce the *continuum of frequency* to the *symbolic space of notes* in order to make the act of composition tractable. Likewise, in the domain of being, we reduce the *continuum of will* to the *symbolic space of words* in order to make the act of communication tractable. Words empower the composition of thought like notes empower the composition of music.
+
+<center>
+<figure class="image">
+  <img src="img/word_notes.png" alt="Three-Lego System" style="border: 2px black solid;">
+  <figcaption>Figure 1: Symbolic reductions in the domains of being and music </figcaption>  
+</figure>
+</center>
+
+Why do we not have a word for "a cold cup of soup on the moon?" In the context of an ordinary life, one is not compelled to reference "a cold cup of soup on the moon" very often and hence there is no utility in creating such a word. Words give form to will: where there is no will, there is no word. 
+
+> Philosophy is a battle against the bewitchment of our intelligence by means of language.
+>
+>-Wittgenstein, "Philosophical Investigations" 
+
+Words are a mixed blessing. On the one hand, words allow us to organize ourselves for the purpose of communication, but on the other hand, the concreteness of words tends to perplex us even further by leading us to falsely believe we have a firm grasp of our will. "Philosophy" is the word for the process of compensating for the inadequacy of language, introduced by the symbolic reduction of will to word, in precisely representing our will.
+
+<center>
+<figure class="image">
+  <img src="img/philosophy_word_will.png" alt="Three-Lego System" style="border: 2px black solid;">
+  <figcaption>Figure 2: Philosophy as the interrogation of symbolic reductions performed in the domain of language. </figcaption>  
+</figure>
+</center>
+
+ Philosophy asks: "Given a word, what is the proper shape of the will bound to it?"
