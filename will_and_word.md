@@ -2,7 +2,9 @@
 #### Andrew Ribeiro 
 #### June 2020
 
-> **Miranda to Caliban:** I pitied thee,<br/>
+> **Miranda to Caliban:** Abhorrèd slave,<br/>
+Which any print of goodness wilt not take,<br/>
+Being capable of all ill! I pitied thee,<br/>
 Took pains to make thee speak, taught thee each hour<br/>
 One thing or other. When thou didst not, savage,<br/>
 Know thine own meaning, but wouldst gabble like<br/>
