@@ -1,4 +1,4 @@
-# Will and Word
+# Will and Word - WORK IN PROGRESS 
 #### Andrew Ribeiro 
 #### June 2020
 
