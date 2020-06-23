@@ -19,9 +19,4 @@
             <img src="img/sense_truth_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
         </a>
     </div>
-    <div class="front_tile">
-        <a href="will_and_word.html">
-            <img src="img/will_and_word_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
-        </a>
-    </div>
 <div>
