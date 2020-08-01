@@ -49,7 +49,7 @@ The simplest way of discriminating between two classes is to ask what can be sai
 </figure>
 </center>
 
-
+## Section 1: Categories and Sense
 <hr/>
 ### Sources
 [1] https://plato.stanford.edu/entries/categories/
