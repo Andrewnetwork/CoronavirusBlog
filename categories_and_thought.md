@@ -49,7 +49,27 @@ The simplest way of discriminating between two classes is to ask what can be sai
 </figure>
 </center>
 
-## Section 2: Categories and Sense
+We may say that *knowledge* is the knowledge of categories, classes, and relationships between them. In *Figure 2* we used a set of properties to distinguish between the human and integer class. We didn't rigorously define these properties. We relied on the *natural language definitions* for the entities involved. What does it mean to be *mortal*? Answering such questions rigorously depends on constructing an *ontology*.  
+
+<u><b>(Definition 4) <i>Ontology</i>:</b></u> A rigorous representation of knowledge.
+
+We will now proceed to construct a simple ontology and thereby confront some of the problems encountered when formalizing knowledge. 
+
+## Section 2: Ontology
+
+Suppose we begin our ontology with a single class: *human* *(Figure 4)*. 
+
+<center>
+<figure class="image">
+  <img src="img/human_ont.png
+" alt="Three-Lego Theorem Proof" style="border: 2px black solid;">
+  <figcaption>Figure 4: An ontology with a single class. </figcaption>  
+</figure>
+</center>
+
+What can be said of humans when we have no other entities in our ontology? We understand *things* in relation to other *things.* 
+
+## Section 3: Categories and Sense
 
 <center>
 <figure class="image">
