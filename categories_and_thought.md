@@ -20,7 +20,7 @@ I say classes are "groupings" instead of "groups" to emphasize that the *substan
 
 <center>
 <figure class="image">
-  <img width="300" src="img/things_in_the_world.png" alt="Three-Lego Theorem Proof" style="border: 2px black solid;">
+  <img width="400" src="img/things_in_the_world.png" alt="Three-Lego Theorem Proof" style="border: 2px black solid;">
   <figcaption>Figure 1: Classification of phenomena.</figcaption>  
 </figure>
 </center>
@@ -35,16 +35,26 @@ How can we discriminate between humans and integers? Note that we are using the 
 </figure>
 </center>
 
-The simplest way of discriminating between two classes is to ask what can be said about one class that cannot be said about the other. 
+The simplest way of discriminating between two classes is to ask what can be said about one class that cannot be said about the other. For example, we can say two numbers can be added, but not that two men can be added. The question mark in *Figure 2* indicates that its not clear what can be said of both humans and integers, if anything. If we were asked what can be said of both apples and oranges, we could say they are both fruits, they are both edible, etc. Apples and oranges are *fundamentally* more alike than humans and integers. This is because apples and oranges belong to the same category, while humans and integers do not. 
+
+<u><b>(Definition 3) <i>Category</i>:</b></u> *Categories* are the largest mutually exclusive classes. Objects belonging to mutually exclusive classes have no characteristics in common, i.e., what can be said of objects from one class cannot be said of the other.
+
+Thus, apples and oranges belong to the same category while humans and integers belong to separate categories. 
+
+<center>
+<figure class="image">
+  <img src="img/AristolianCategories.png
+" alt="Three-Lego Theorem Proof" style="border: 2px black solid;">
+  <figcaption>Figure 3: Original Aristotelian categories.</figcaption>  
+</figure>
+</center>
 
 
-
-
-
-<u><b>(Definition 3) <i>Category</i>:</b></u> *Categories* are the largest mutually exclusive classes.
 
 The ten classic Aristotelian categories of things which supposedly have no overlap, i.e., the things in each category are *contained* by that category, i.e., no thing exists in more than one of the categories. 
 
 When we look at a person, their appearance causes us to think of them as "humans," i.e., we experience them as an instance of the human class.  
 
-
+<hr/>
+### Sources
+[1] https://plato.stanford.edu/entries/categories/
