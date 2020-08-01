@@ -53,7 +53,7 @@ The simplest way of discriminating between two classes is to ask what can be sai
 
 <center>
 <figure class="image">
-  <img width="200" src="img/sense_question_1.png
+  <img width="300" src="img/sense_question_1.png
 " alt="Three-Lego Theorem Proof" style="border: 2px black solid;">
   <figcaption>Figure 4: Is screaming more like yelling or whispering?</figcaption>  
 </figure>
