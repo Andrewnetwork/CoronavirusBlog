@@ -35,25 +35,20 @@ How can we discriminate between humans and integers? Note that we are using the 
 </figure>
 </center>
 
-The simplest way of discriminating between two classes is to ask what can be said about one class that cannot be said about the other. For example, we can say two numbers can be added, but not that two men can be added. The question mark in *Figure 2* indicates that its not clear what can be said of both humans and integers, if anything. If we were asked what can be said of both apples and oranges, we could say they are both fruits, they are both edible, etc. Apples and oranges are *fundamentally* more alike than humans and integers. This is because apples and oranges belong to the same category, while humans and integers do not. 
+The simplest way of discriminating between two classes is to ask what can be said about one class that cannot be said about the other. For example, we can say two numbers can be added, but not that two men can be added. The question mark in *Figure 2* indicates that its not clear what can be said of both humans and integers, if anything. If we were asked what can be said of both apples and oranges, we could say they are both fruits, they are both edible, etc. Apples and oranges are *fundamentally* more alike than humans and integers. 
 
 <u><b>(Definition 3) <i>Category</i>:</b></u> *Categories* are the largest mutually exclusive classes. Objects belonging to mutually exclusive classes have no characteristics in common, i.e., what can be said of objects from one class cannot be said of the other.
 
-Thus, apples and oranges belong to the same category while humans and integers belong to separate categories. 
+*Figure 3* depicts the ten original Aristotelian categories[1]. According to these categories, apples, oranges, belong to the *substance* category, and integers belong to the *quantity* category. Thus, the reason why apples and oranges seem fundamentally more alike than humans and integers is that apples and oranges belong to the same category, while humans and integers do not. 
 
 <center>
 <figure class="image">
   <img src="img/AristolianCategories.png
 " alt="Three-Lego Theorem Proof" style="border: 2px black solid;">
-  <figcaption>Figure 3: Original Aristotelian categories.</figcaption>  
+  <figcaption>Figure 3: The original Aristotelian categories.</figcaption>  
 </figure>
 </center>
 
-
-
-The ten classic Aristotelian categories of things which supposedly have no overlap, i.e., the things in each category are *contained* by that category, i.e., no thing exists in more than one of the categories. 
-
-When we look at a person, their appearance causes us to think of them as "humans," i.e., we experience them as an instance of the human class.  
 
 <hr/>
 ### Sources
