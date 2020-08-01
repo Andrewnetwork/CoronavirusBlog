@@ -49,7 +49,7 @@ The simplest way of discriminating between two classes is to ask what can be sai
 </figure>
 </center>
 
-We may say that *knowledge* is the knowledge of categories, classes, and relationships between them. In *Figure 2* we used a set of properties to distinguish between the human and integer class. We didn't rigorously define these properties. We relied on the *natural language definitions* for the entities involved. What does it mean to be *mortal*? Answering such questions rigorously depends on constructing an *ontology*.  
+We have knowledge of *things*; the knowledge of categories, classes, and relationships between them is the substance of our knowledge at the logical level. In *Figure 2* we used a set of properties to distinguish between the human and integer class. We didn't rigorously define these properties. We relied on the *natural language definitions* for the entities involved. What does it mean to be *mortal*? Answering such questions rigorously depends on constructing an *ontology*.  
 
 <u><b>(Definition 4) <i>Ontology</i>:</b></u> A rigorous representation of knowledge.
 
