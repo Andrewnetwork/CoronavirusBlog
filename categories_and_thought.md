@@ -6,13 +6,13 @@ The world is full of many *things* mixed up together. A fundamental application 
 
 ## Section 1: Organizing Phenomena
 
-The world appears to contain many things.
+The world appears to contain many things. 
 
 In recognition of the perceptual layer between us and the world that contains the *things-in-themselves*, the presentations of appearances in the world are called *phenomena*, i.e., objects of our experience.  
 
 <u><b>(Definition 1) <i>Phenomenon</i>:</b></u> In *"Critique of Pure Reason,"* Kant describes *phenomena* to be: "appearances to the extent that as objects they are thought in accordance with the unity of the categories." 
 
-Phenomena seem to be related to other phenomena. One of the fundamental mental operations we can perform on phenomena is their separation into groups. The simplest relationship between phenomena is the groups they mutually belong to, i.e., their mutual classifications. 
+Phenomena seem to be related to other phenomena. One of the fundamental mental operations we can perform on phenomena is separating them into groups. The simplest relationship between phenomena is the groups they mutually belong to, i.e., their mutual classifications. 
 
 <u><b>(Definition 2) <i>Class</i>:</b></u> A named grouping of phenomena.   
 
@@ -49,7 +49,7 @@ The simplest way of discriminating between two classes is to ask what can be sai
 </figure>
 </center>
 
-We have knowledge of *things*; the knowledge of categories, classes, and relationships between them is the substance of our knowledge at the logical level. In *Figure 2* we used a set of properties to distinguish between the human and integer class. We didn't rigorously define these properties. We relied on the *natural language definitions* for the entities involved. What does it mean to be *mortal*? Answering such questions rigorously depends on constructing an *ontology*.  
+We have knowledge of *things*: the knowledge of categories, classes, and relationships between them is the substance of our knowledge at the logical level. In *Figure 2* we used a set of properties to distinguish between the human and integer class, but we didn't rigorously define these properties. We relied on the *natural language definitions* for the entities involved. While natural language is good What does it mean to be *mortal*? How do we rigorously represent the knowledge of mortality and how it relates to various phenomena? Can we prove that it makes *sense* to call a human mortal, but not an apple?  Answering such questions rigorously depends on constructing an *ontology*.  
 
 <u><b>(Definition 4) <i>Ontology</i>:</b></u> A rigorous representation of knowledge.
 

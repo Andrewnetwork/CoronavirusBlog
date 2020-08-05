@@ -19,9 +19,4 @@
             <img src="img/sense_truth_front.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
         </a>
     </div>
-    <div class="front_tile">
-        <a href="categories_and_thought.html">
-            <img src="img/categories_and_thought.png" style="border: 2px black solid; box-shadow: 3px 3px 5px 6px #ccc;" width="230" height="300"/>
-        </a>
-    </div>
 <div>
